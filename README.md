@@ -49,4 +49,6 @@ The dashboard provides the following key metrics:
 | Profit Margin | 11.6% |
 | Average Order Value | 505.5 |
 
-
+## 👨‍💻 Author
+## Shailesh Kumar
+Power BI Developer | SQL | Python | Data Analytics
